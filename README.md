@@ -1,5 +1,3 @@
-# Website
-
 # Hi there, I'm Jessica 👋 
 
 
