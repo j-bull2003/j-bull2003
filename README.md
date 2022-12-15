@@ -3,11 +3,11 @@
 
 ## I'm a junior software engineer!!
 
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 👀 I’m interested in software engineering
-- 🥅 2023 Goals: Create more projects and learn more
-- ⚡ Fun fact: I love reading
+- 📚 I'm currently completing my bachelors degree in Information Technology
+- 🌱 I’m most interested in python and I'm open to learning multiple languages
+- 🥅 2022 Goals: Create more projects and develop my skills
+- 🤓 Junior Software engineer
+- 🎀 Fun fact: I love reading, swimming and going to the sauna
 
 
 <br />
