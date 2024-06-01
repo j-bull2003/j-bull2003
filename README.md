@@ -2,7 +2,7 @@
 
 - 💻 I am working on creating more projects with Github.
 - 🌱 SWE in London.
-- 👩‍💻 BSEng CS. 
+- 👩‍💻 BEng CS. 
 
 
 
