@@ -4,7 +4,7 @@
 - 🌱 SWE
 - 👩‍💻 BEng CS. 
 
-
+(don't forget to checkout all the projects I haven't pinned!)
 
 <br />
 <br />
